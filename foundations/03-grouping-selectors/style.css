@@ -1,0 +1,14 @@
+.muttons,
+.spicy {
+    font-family: Helvetica, Times New Roman, sans-serif;
+    font-size: 28px;
+}
+
+.muttons {
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.spicy {
+    background-color: yellow;
+}
