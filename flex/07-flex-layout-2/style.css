@@ -13,9 +13,13 @@ body {
   display: flex;
   font-size: 32px;
   font-weight: 900;
-  flex-direction: row;
-  align-items: flex-start;
-  padding-left: 16px;
+  align-items: center;
+  padding: 0px 16px;
+}
+
+.body {
+  flex: 1;
+  display: flex;
 }
 
 .footer {
@@ -35,7 +39,9 @@ body {
 }
 
 a {
-
+  color: white;
+  text-decoration: none;
+  font-size: 24px;
 }
 
 li {
